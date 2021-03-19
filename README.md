@@ -14,6 +14,6 @@ ray/ric<br>
 ----SNR<br>
 ------class<br>
 
-step 3:运行model中的代码进行训练与测试（修改路径）。
+step 3: 运行model中的代码进行训练与测试（修改路径）。
 
   
