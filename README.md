@@ -1,5 +1,6 @@
 # simulated-signal-dataset
 step 1: 下载原始仿真信号：链接：https://pan.baidu.com/s/1jlvrUZJpmzEoIsnnjfA1bA 提取码：1234 <br>
+（通过“信号生成”生成仿真信号)
 
 step 2: 根据code->dataset中的代码生成对应数据集<br>
 数据集格式为<br>
